@@ -1,6 +1,6 @@
-# SONOFFs Firmwares
+# SONOFFs AFE Firmwares
 
-This repository contains Sonoff switches firmware binaries
+This repository contains Sonoff switches AFE firmware binaries
 
 You can find source code and documentation here:
 * [Sonoff Basic](https://github.com/tschaban/SONOFF-BASIC-firmware)
